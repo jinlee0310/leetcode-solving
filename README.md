@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jinlee0310/leetcode-solving/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/jinlee0310/leetcode-solving/tree/main/0125-valid-palindrome/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -19,4 +20,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jinlee0310/leetcode-solving/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jinlee0310/leetcode-solving/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
