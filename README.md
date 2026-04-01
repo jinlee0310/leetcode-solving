@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jinlee0310/leetcode-solving/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jinlee0310/leetcode-solving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,4 +25,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/jinlee0310/leetcode-solving/tree/main/0020-valid-parentheses/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jinlee0310/leetcode-solving/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
